@@ -5,4 +5,4 @@ For testing on git features
 
 ![version](https://img.shields.io/github/v/tag/Trimple/git-testing?color=blue&label=Version)
 
-![version](https://img.shields.io/github/v/release/Trimple/git-testing?color=blue&label=Version&sort=semver)
+![version](https://img.shields.io/github/v/release/Trimple/git-testing?color=blue&label=Version)
