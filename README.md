@@ -7,4 +7,4 @@ For testing on git features1
 
 ![version](https://img.shields.io/github/v/release/Trimple/git-testing?color=blue&label=Version)
 
-![licence] (https://img.shields.io/github/license/Trimple/git-testing?color=blue&label=Licence)
+![licence](https://img.shields.io/github/license/Trimple/git-testing?color=blue&label=Licence)
